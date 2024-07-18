@@ -49,7 +49,7 @@ Me voilà 10 ans plus tard, déterminé à concrétiser ma passion, j'ai entrepr
 
 ### Projets
 
-- [MindCare](https://mind-care.fr) : Notre projet de fin d'études est est une plateforme innovante dédiée à la santé mentale, offrant un accès simplifié aux soins, un suivi personnalisé, et une communauté de soutien pour les patients et les professionnels. Notre mission est de démystifier la santé mentale et de rendre les soins accessibles à tous.
+- [MindCare](https://mind-care.fr) : Notre projet de fin d'études est une plateforme dédiée à la santé mentale, offrant un accès simplifié aux soins, un suivi personnalisé, et une communauté de soutien pour les patients et les professionnels. Notre mission est de démystifier la santé mentale et de rendre les soins accessibles à tous.
 
 ### Contact
 
