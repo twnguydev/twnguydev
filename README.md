@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### À propos de moi
 
-À l'âge de 13 ans, j'ai eu la chance d'acquérir mon premier ordinateur, déclenchant ainsi ma passion pour la programmation informatique. Depuis ce moment, j'ai cultivé mes compétences par pur plaisir, sans réellement envisager d'en faire ma profession. Aujourd'hui, l'algorithmie et les expressions régulières n'ont plus de secrets pour moi, et bien que je trouve une certaine préférence pour les langages back-end, je m'épanouis également en front-end et plus particulièrement dans les technologies Web3D.
+À l'âge de 13 ans, j'ai eu la chance d'acquérir mon premier ordinateur, déclenchant ainsi ma passion pour la programmation informatique. Depuis ce moment, j'ai cultivé mes compétences par pur plaisir, sans réellement envisager d'en faire ma profession. Aujourd'hui, l'algorithmie et les expressions régulières n'ont plus de secrets pour moi, et bien que je trouve une certaine préférence pour les langages back-end, je m'épanouis également en front-end.
 
 Me voilà 10 ans plus tard, déterminé à concrétiser ma passion, j'ai entrepris le parcours **Web@cademie d'EPITECH Marseille**. Cette formation, composée d'une année initiale suivie d'une année en alternance, marque le début d'une nouvelle étape que je compte bien poursuivre et approfondir dans mon parcours professionnel.
 
@@ -32,13 +32,12 @@ Me voilà 10 ans plus tard, déterminé à concrétiser ma passion, j'ai entrepr
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### En apprentissage
 
-![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 #### Logiciels
@@ -46,6 +45,8 @@ Me voilà 10 ans plus tard, déterminé à concrétiser ma passion, j'ai entrepr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### Projets
 
@@ -55,6 +56,6 @@ Me voilà 10 ans plus tard, déterminé à concrétiser ma passion, j'ai entrepr
 
 - [Retrouvez-moi sur LinkedIn](https://www.linkedin.com/in/tanguy-gibrat/)
 - [Contactez-moi par e-mail](mailto:hello@tanguygibrat.fr)
-- [Portfolio](https://tanguygibrat.fr)
+- [Découvrez mon univers](https://tanguygibrat.fr)
 
 N'hésitez pas à me contacter pour discuter de collaborations, de projets ou simplement pour échanger sur la programmation et les nouvelles technologies !
