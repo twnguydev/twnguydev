@@ -1,5 +1,3 @@
-# Tanguy Gibrat | Développeur Full Stack
-
 ![Banner](https://img.shields.io/badge/Portfolio-Tanguy%20Gibrat-3A86FF?style=for-the-badge&logo=github&logoColor=white)
 
 ## 👋 Salut, moi c'est Tanguy !
@@ -74,7 +72,7 @@ Twool Labs est une application de bureau permettant de modéliser, simuler et op
 [![Email](https://img.shields.io/badge/Email-hello@tanguygibrat.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@tanguygibrat.fr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanguygibrat.fr-3A86FF?style=for-the-badge&logo=safari&logoColor=white)](https://tanguygibrat.fr)
 
-N'hésitez pas à me contacter pour discuter de collaborations, de projets ou simplement pour échanger sur la programmation et les nouvelles technologies !
+Je suis ouvert à la discussion que ce soit pour discuter de collaborations, de projets ou simplement pour échanger sur la programmation et les nouvelles technologies !
 
 ---
 
