@@ -54,7 +54,7 @@ Me voilà 10 ans plus tard, déterminé à concrétiser ma passion, j'ai entrepr
 
 ### 📊 Twool Labs - Plateforme d'optimisation de processus
 ![Statut](https://img.shields.io/badge/Statut-En%20développement-yellow)
-![Progression](https://img.shields.io/badge/Progression-65%25-yellow)
+![Progression](https://img.shields.io/badge/Progression-35%25-red)
 ![Technologies](https://img.shields.io/badge/Tech-Electron.JS%20|%20Next.js%20|%20Python-blue)
 
 Twool Labs est une application de bureau permettant de modéliser, simuler et optimiser des processus métier grâce au concept de jumeau numérique et à l'intelligence artificielle.
